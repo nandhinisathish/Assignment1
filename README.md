@@ -11,4 +11,6 @@ Now open the VS-Code and using "Open folder" option navigate to "Assignment1" fo
 Next open "New terminal"  from the tab Terminal and it to "bash.
 Verify are you in the right folder now, enter pwd and hit enter, confirm and then proceed.
 In the  git init - to initialise the folder with git
-Ls +enter - to verify, you can if there is .git present
+Ls +enter - to verify, you can if there is .git present.
+
+Next Steps will be added later.
