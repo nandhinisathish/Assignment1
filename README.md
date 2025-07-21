@@ -14,3 +14,5 @@ Verify are you in the right folder now, enter pwd and hit enter, confirm and the
 In the  git init - to initialise the folder with git
 Ls +enter - to verify, you can if there is .git present
 
+will be continued.
+
